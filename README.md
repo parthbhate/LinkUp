@@ -1,29 +1,3 @@
-# 🚀 Video SDK for JS
-
-[![Documentation](https://img.shields.io/badge/Read-Documentation-blue)](https://docs.videosdk.live/react/guide/video-and-audio-calling-api-sdk/concept-and-architecture)
-[![Discord](https://img.shields.io/discord/876774498798551130?label=Join%20on%20Discord)](https://discord.gg/kgAvyxtTxv)
-[![Register](https://img.shields.io/badge/Contact-Know%20More-blue)](https://app.videosdk.live/signup)
-
-At Video SDK, we’re building tools to help companies create world-class collaborative products with capabilities of live audio/videos, compose cloud recordings/rtmp/hls and interaction APIs
-
-### 🥳 Get **10,000 minutes free** every month! **[Try it now!](https://app.videosdk.live/signup)**
-
-### ⚡️From Clone to Launch - Get Started with the Example in 5 mins!
-
-[![JS](https://cdn.videosdk.live/docs/images/youtube/JS.png)](https://youtu.be/SeQ6d1efN5A?si=HepO1fEmK-qYKjwL "JS")
-
-## 📚 **Table of Contents**
-
-- [⚡ **Quick Setup**](#-quick-setup)
-- [🔧 **Prerequisites**](#-prerequisites)
-- [📦 **Running the Sample App**](#-running-the-sample-app)
-- [🔥 **Meeting Features**](#-meeting-features)
-- [🧠 **Key Concepts**](#-key-concepts)
-- [🔑 **Token Generation**](#-token-generation)
-- [📖 **Examples**](#-examples)
-- [📝 **VideoSDK's Documentation**](#-documentation)
-- [💬 **Join Our Community**](#-join-our-community)
-
 
 ## ⚡ Quick Setup
 
