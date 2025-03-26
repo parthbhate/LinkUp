@@ -69,14 +69,3 @@ The token is used to create and validate a meeting using API and also initialize
 🌐 `Production Environment`:
 
 - You must set up an authentication server to authorize users for production. To set up an authentication server, please take a look at our official example repositories. [videosdk-rtc-api-server-examples](https://github.com/videosdk-live/videosdk-rtc-api-server-examples)
-
-## 📖 Examples
-
-## 📝 Documentation
-
-Explore more and start building with our [**Documentation**](https://docs.videosdk.live/)
-
-## 🤝 Join Our Community
-
-- **[Discord](https://discord.gg/Gpmj6eCq5u)**: Engage with the Video SDK community, ask questions, and share insights.
-- **[X](https://x.com/video_sdk)**: Stay updated with the latest news, updates, and tips from Video SDK.
