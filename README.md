@@ -45,33 +45,6 @@ npm install -g live-server
 live-server --port=8000
 ```
 
-## 🔥 Meeting Features
-
-Unlock a suite of powerful features to enhance your meetings:
-
-| Feature                        | Documentation                                                                                                                | Description                                                                                                      |
-|--------------------------------|------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------|
-| 📋 **Precall Setup**           | [Setup Precall](https://docs.videosdk.live/javascript/guide/video-and-audio-calling-api-sdk/setup-call/precall)                   | Configure audio, video devices and other settings before joining the meeting.                                              |
-| ⏳ **Waiting Lobby**           | [Waiting Lobby](https://docs.videosdk.live/javascript/guide/video-and-audio-calling-api-sdk/setup-call/waiting-lobby)             | Virtual space for participants to wait before joining the meeting.                                               |
-| 🤝 **Join Meeting**            | [Join Meeting](https://docs.videosdk.live/javascript/guide/video-and-audio-calling-api-sdk/setup-call/join-meeting)                | Allows participants to join a meeting.                                                                 |
-| 🎤 **Toggle Mic**         | [Mic Control](https://docs.videosdk.live/javascript/guide/video-and-audio-calling-api-sdk/handling-media/mute-unmute-mic)          | Toggle the microphone on or off during a meeting.                                                                  |
-| 📷 **Toggle Camera**           | [Camera Control](https://docs.videosdk.live/javascript/guide/video-and-audio-calling-api-sdk/handling-media/on-off-camera)         | Turn the video camera on or off during a meeting.                                                                  |
-| 🖥️ **Screen Share**            | [Screen Share](https://docs.videosdk.live/javascript/guide/video-and-audio-calling-api-sdk/handling-media/screen-share)          | Share your screen with other participants during the call.                                                      |
-| 📸 **Image Capture**           | [Image Capturer](https://docs.videosdk.live/javascript/guide/video-and-audio-calling-api-sdk/handling-media/image-capturer)        | Capture images of other participant from their video stream, handy for Video KYC and identity verification scenarios.     |
-| 🔌 **Change Input Device**     | [Switch Input Devices](https://docs.videosdk.live/javascript/guide/video-and-audio-calling-api-sdk/handling-media/change-input-device)   | Switch between different audio and video input devices.                                                         |
-| 🔊 **Change Audio Output**     | [Switch Audio Output](https://docs.videosdk.live/javascript/guide/video-and-audio-calling-api-sdk/handling-media/change-audio-ouptut-device) | Select an output device for audio during a meeting.                                                                |
-| ⚙️ **Optimize Video Track**         | [Video Track Optimization](https://docs.videosdk.live/javascript/guide/video-and-audio-calling-api-sdk/render-media/optimize-video-track)                                  | Enhance the quality and performance of media tracks.                                                            |
-| ⚙️ **Optimize Audio Track**         | [Audio Track Optimization](https://docs.videosdk.live/javascript/guide/video-and-audio-calling-api-sdk/render-media/optimize-audio-track)                                       | Enhance the quality and performance of media tracks.                                                            |
-| 💬 **Chat**                    | [In-Meeting Chat](https://docs.videosdk.live/javascript/guide/video-and-audio-calling-api-sdk/collaboration-in-meeting/pubsub)      | Exchange messages with participants through a Publish-Subscribe mechanism.                                                   |
-| 📝 **Whiteboard**              | [Whiteboard](https://docs.videosdk.live/javascript/guide/video-and-audio-calling-api-sdk/collaboration-in-meeting/whiteboard)      | Collaborate visually by drawing and annotating on a shared whiteboard.                                           |
-| 📁 **File Sharing**            | [File Sharing](https://docs.videosdk.live/javascript/guide/video-and-audio-calling-api-sdk/collaboration-in-meeting/upload-fetch-temporary-file) | Share files with participants during the meeting.                                                               |
-| 📼 **Recording**               | [Recording](https://docs.videosdk.live/javascript/guide/video-and-audio-calling-api-sdk/recording/Overview)                | Record the meeting for future reference.                                                                        |
-| 📡 **RTMP Livestream**         | [RTMP Livestream](https://docs.videosdk.live/javascript/guide/video-and-audio-calling-api-sdk/live-streaming/rtmp-livestream)        | Stream the meeting live to platforms like YouTube or Facebook.                                                  |
-| 📝 **Real-time Transcription**           | [Real-time Transcription](https://docs.videosdk.live/javascript/guide/video-and-audio-calling-api-sdk/transcription-and-summary/realtime-transcribe-meeting) | Generate real-time transcriptions of the meeting.                                                               |
-| 🔇 **Toggle Remote Media**     | [Remote Media Control](https://docs.videosdk.live/javascript/guide/video-and-audio-calling-api-sdk/control-remote-participant/remote-participant-media) | Control the microphone or camera of remote participants.                                                        |
-| 🚫 **Mute All Participants**   | [Mute All](https://docs.videosdk.live/javascript/guide/video-and-audio-calling-api-sdk/control-remote-participant/mute-all-participants) | Mute all participants simultaneously during the call.                                                           |
-| 🗑️ **Remove Participant**      | [Remove Participant](https://docs.videosdk.live/javascript/guide/video-and-audio-calling-api-sdk/control-remote-participant/remove-participant) | Eject a participant from the meeting. |
-
 ## 🧠 Key Concepts
 
 Understand the core components of our SDK:
@@ -98,15 +71,6 @@ The token is used to create and validate a meeting using API and also initialize
 - You must set up an authentication server to authorize users for production. To set up an authentication server, please take a look at our official example repositories. [videosdk-rtc-api-server-examples](https://github.com/videosdk-live/videosdk-rtc-api-server-examples)
 
 ## 📖 Examples
-
-- [**Prebuilt Examples**](https://github.com/videosdk-live/videosdk-rtc-prebuilt-examples)
-- [**React SDK Example**](https://github.com/videosdk-live/videosdk-rtc-react-sdk-example.git)
-- [**React Native SDK Example**](https://github.com/videosdk-live/videosdk-rtc-react-native-sdk-example)
-- [**Flutter SDK Example**](https://github.com/videosdk-live/videosdk-rtc-flutter-sdk-example)
-- [**Android Java SDK Example**](https://github.com/videosdk-live/videosdk-rtc-android-java-sdk-example)
-- [**Android Kotlin SDK Example**](https://github.com/videosdk-live/videosdk-rtc-android-kotlin-sdk-example)
-- [**iOS SDK Example**](https://github.com/videosdk-live/videosdk-rtc-ios-sdk-example)
-
 
 ## 📝 Documentation
 
